@@ -20,6 +20,7 @@ test-suite space
                , packed-dawg
                , bloomfilter
                , random
+               , trie-simple
 
 benchmark time
   default-language: Haskell2010
